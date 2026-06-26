@@ -66,7 +66,7 @@ h1 { font-size: clamp(1.8rem, 2.8vw, 2.9rem); line-height: 1.2;
   margin-bottom: 18px; }
 h2 { font-size: clamp(2rem, 4vw, 3.2rem); color: var(--navy); letter-spacing: -0.04em; margin-bottom: 22px; }
 h3 { color: var(--navy); font-size: 1.25rem; }
-.hero-text { font-size: 1.16rem; color: #dce9f5; max-width: 680px; }
+.hero-text { font-size: 1.00rem; color: #dce9f5; max-width: 400px; }
 .hero-actions { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 32px; }
 .btn {
   padding: 13px 18px;
@@ -88,7 +88,7 @@ h3 { color: var(--navy); font-size: 1.25rem; }
   box-shadow: var(--shadow);
 }
 .hero-photo-card img { width: 100%; border-radius: 22px; display: block; }
-.photo-caption { padding: 16x 8px 4px; display: flex; justify-content: space-between; gap: 16px; color: #e6f0f7; }
+.photo-caption { padding: 8px 8px 4px; display: flex; justify-content: space-between; gap: 16px; color: #e6f0f7; }
 .impact-strip {
   max-width: 1100px;
   margin: -52px auto 0;
